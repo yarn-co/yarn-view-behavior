@@ -1,4 +1,6 @@
 # yarn-view-behavior
+**YarnBehaviors.ViewBehavior**
+
 Polymer v1 app views
 
 [![Build Status](https://travis-ci.org/yarn-co/yarn-view-behavior.svg?branch=master)](https://travis-ci.org/yarn-co/yarn-view-behavior)
@@ -18,4 +20,3 @@ To view the fancy documentation for this repo, follow the process above then nav
 
 ### Tests
 Tests are placed inside the `test` folder and can be accessed at **http://localhost:8000/bower_components/yarn-view-behavior/test/**.
-
