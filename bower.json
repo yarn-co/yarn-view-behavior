@@ -16,6 +16,7 @@
     "type": "git",
     "url": "git://github.com/yarn-co/yarn-view-behavior.git"
   },
+  "main": "yarn-view-behavior.html",
   "dependencies": {
     "polymer": "Polymer/polymer#^1.0.0",
     "yarn-state-behavior": "yarn-co/yarn-state-behavior#^0.2.0"
